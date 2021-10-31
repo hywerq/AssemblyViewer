@@ -1,0 +1,12 @@
+D:\БГУИР\СПП\AssemblyViewer_L3\AssemblyViewer\AssemblyBrowser\bin\Debug\AssemblyBrowser.dll
+D:\БГУИР\СПП\AssemblyViewer_L3\AssemblyViewer\AssemblyBrowser\bin\Debug\AssemblyBrowser.pdb
+D:\БГУИР\СПП\AssemblyViewer_L3\AssemblyViewer\AssemblyBrowser\obj\Debug\AssemblyBrowser.csprojAssemblyReference.cache
+D:\БГУИР\СПП\AssemblyViewer_L3\AssemblyViewer\AssemblyBrowser\obj\Debug\AssemblyBrowser.csproj.CoreCompileInputs.cache
+D:\БГУИР\СПП\AssemblyViewer_L3\AssemblyViewer\AssemblyBrowser\obj\Debug\AssemblyBrowser.dll
+D:\БГУИР\СПП\AssemblyViewer_L3\AssemblyViewer\AssemblyBrowser\obj\Debug\AssemblyBrowser.pdb
+C:\Users\Asus\Desktop\AssemblyViewer_L3\AssemblyViewer\AssemblyBrowser\bin\Debug\AssemblyBrowser.dll
+C:\Users\Asus\Desktop\AssemblyViewer_L3\AssemblyViewer\AssemblyBrowser\bin\Debug\AssemblyBrowser.pdb
+C:\Users\Asus\Desktop\AssemblyViewer_L3\AssemblyViewer\AssemblyBrowser\obj\Debug\AssemblyBrowser.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\AssemblyViewer_L3\AssemblyViewer\AssemblyBrowser\obj\Debug\AssemblyBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\AssemblyViewer_L3\AssemblyViewer\AssemblyBrowser\obj\Debug\AssemblyBrowser.dll
+C:\Users\Asus\Desktop\AssemblyViewer_L3\AssemblyViewer\AssemblyBrowser\obj\Debug\AssemblyBrowser.pdb
